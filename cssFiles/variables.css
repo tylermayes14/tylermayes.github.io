@@ -1,0 +1,21 @@
+:root {
+    /* basic colors */
+    --red: red;
+    --orange: orange;
+    --yellow: yellow;
+    --green: green;
+    --blue-green: aqua;
+    --blue: blue;
+    --purple: purple;
+
+    /* main site colors */
+    --blue1: #212F3C;
+    --yellow1: #FFCC33;
+    --grey: #343a40;
+
+    /* fonts */
+    font-family: 'Nanum Gothic', sans-serif;
+    font-family: 'Slabo 27px', serif;
+    font-family: 'Work Sans', sans-serif;
+    font-family: 'Mansalva', cursive;
+}
